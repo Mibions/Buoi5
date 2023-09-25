@@ -16,7 +16,7 @@ namespace _44_2001216146_NguyenLeBaThanh
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Form_Bai1());
         }
     }
 }
