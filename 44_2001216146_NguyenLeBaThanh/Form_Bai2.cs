@@ -72,5 +72,9 @@ namespace _44_2001216146_NguyenLeBaThanh
             }
         }
 
+        private void Form_Bai2_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
