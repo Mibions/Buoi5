@@ -19,7 +19,8 @@ namespace _44_2001216146_NguyenLeBaThanh
             //Application.Run(new Form_Bai1()); // Bai 1
             //Application.Run(new Form_Bai2()); // Bai 2
             //Application.Run(new Form_Bai3()); // Bai 3
-            Application.Run(new Form_Bai4()); // Bai 4
+            //Application.Run(new Form_Bai4()); // Bai 4
+            Application.Run(new Form_Bai5()); // Bai 5
         }
     }
 }

@@ -88,5 +88,10 @@ namespace _44_2001216146_NguyenLeBaThanh
                 Application.Exit();
             }
         }
+
+        private void Form_Bai4_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

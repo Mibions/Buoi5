@@ -189,6 +189,7 @@ namespace _44_2001216146_NguyenLeBaThanh
             this.Controls.Add(this.Input_a_tb);
             this.Name = "Form_Bai4";
             this.Text = "Form_Bai4";
+            this.Load += new System.EventHandler(this.Form_Bai4_Load);
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
