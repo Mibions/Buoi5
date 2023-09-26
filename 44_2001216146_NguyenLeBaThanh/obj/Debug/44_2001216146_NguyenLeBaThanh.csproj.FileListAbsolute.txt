@@ -12,3 +12,4 @@ E:\Công Nghệ .Net\Buoi5\44_2001216146_NguyenLeBaThanh\44_2001216146_NguyenLeB
 E:\Công Nghệ .Net\Buoi5\44_2001216146_NguyenLeBaThanh\44_2001216146_NguyenLeBaThanh\obj\Debug\44_2001216146_NguyenLeBaThanh.exe
 E:\Công Nghệ .Net\Buoi5\44_2001216146_NguyenLeBaThanh\44_2001216146_NguyenLeBaThanh\obj\Debug\44_2001216146_NguyenLeBaThanh.pdb
 E:\Công Nghệ .Net\Buoi5\44_2001216146_NguyenLeBaThanh\44_2001216146_NguyenLeBaThanh\obj\Debug\44_2001216146_NguyenLeBaThanh.csproj.AssemblyReference.cache
+E:\Công Nghệ .Net\Buoi5\44_2001216146_NguyenLeBaThanh\44_2001216146_NguyenLeBaThanh\obj\Debug\_44_2001216146_NguyenLeBaThanh.Form_Bai6.resources
