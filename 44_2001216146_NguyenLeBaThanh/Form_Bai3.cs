@@ -92,5 +92,9 @@ namespace _44_2001216146_NguyenLeBaThanh
                 Register_btn_Click(sender, e);
         }
 
+        private void Form_Bai3_Load_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }

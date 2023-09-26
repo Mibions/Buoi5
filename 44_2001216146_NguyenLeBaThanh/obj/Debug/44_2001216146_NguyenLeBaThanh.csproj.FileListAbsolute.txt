@@ -9,3 +9,5 @@ E:\Công Nghệ .Net\Buoi5\44_2001216146_NguyenLeBaThanh\44_2001216146_NguyenLeB
 E:\Công Nghệ .Net\Buoi5\44_2001216146_NguyenLeBaThanh\44_2001216146_NguyenLeBaThanh\obj\Debug\_44_2001216146_NguyenLeBaThanh.Form_Bai1.resources
 E:\Công Nghệ .Net\Buoi5\44_2001216146_NguyenLeBaThanh\44_2001216146_NguyenLeBaThanh\obj\Debug\_44_2001216146_NguyenLeBaThanh.Form_Bai2.resources
 E:\Công Nghệ .Net\Buoi5\44_2001216146_NguyenLeBaThanh\44_2001216146_NguyenLeBaThanh\obj\Debug\_44_2001216146_NguyenLeBaThanh.Form_Bai3.resources
+E:\Công Nghệ .Net\Buoi5\44_2001216146_NguyenLeBaThanh\44_2001216146_NguyenLeBaThanh\obj\Debug\44_2001216146_NguyenLeBaThanh.csproj.AssemblyReference.cache
+E:\Công Nghệ .Net\Buoi5\44_2001216146_NguyenLeBaThanh\44_2001216146_NguyenLeBaThanh\obj\Debug\_44_2001216146_NguyenLeBaThanh.Form_Bai4.resources

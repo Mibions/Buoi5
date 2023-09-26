@@ -168,6 +168,7 @@ namespace _44_2001216146_NguyenLeBaThanh
             this.Name = "Form_Bai3";
             this.Text = "Form_Bai3";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form_Bai3_FormClosing);
+            this.Load += new System.EventHandler(this.Form_Bai3_Load_1);
             this.ResumeLayout(false);
             this.PerformLayout();
 
